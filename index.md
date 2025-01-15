@@ -11,5 +11,9 @@ Test Javascript
 ``` javascript
 var myVar = "Hello, world!";
 ```
+Supported by markdown
+- [x] smalltalk
+- [x] javascript
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
