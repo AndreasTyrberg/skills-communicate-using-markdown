@@ -2,6 +2,14 @@
 
 ### en mindre rubrik kommer här
 
-här text utan rubrik
+Test smalltalk
+--- smalltalk
+self EnVariabel := 'aString'.
+
+---
+Test Javascript
+``` javascript
+var myVar = "Hello, world!";
+```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
