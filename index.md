@@ -3,10 +3,10 @@
 ### en mindre rubrik kommer här
 
 Test smalltalk
---- smalltalk
+```smalltalk
 self EnVariabel := 'aString'.
+```
 
----
 Test Javascript
 ``` javascript
 var myVar = "Hello, world!";
